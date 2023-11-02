@@ -1,0 +1,7 @@
+langchain==0.0.303
+loguru==0.7.2
+notion-client==2.0.0
+python-dotenv==1.0.0
+pre-commit==3.5.0
+fire==0.5.0
+openai==0.28.1

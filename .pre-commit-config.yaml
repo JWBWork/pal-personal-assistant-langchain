@@ -1,0 +1,10 @@
+repos:
+  - repo: https://github.com/pre-commit/mirrors-autopep8
+    rev: ''  # Enter a specific release or version here if desired
+    hooks:
+      - id: autopep8
+
+  - repo: https://github.com/Yelp/detect-secrets
+    rev: ''  # Enter a specific release or version here if desired
+    hooks:
+      - id: detect-secrets
